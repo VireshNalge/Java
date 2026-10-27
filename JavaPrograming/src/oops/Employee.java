@@ -20,7 +20,7 @@ public class Employee {
 	
 	
 // This is main method
-	public static void main(String[] args) 
+	/*public static void main(String[] args) 
 	{
 		Employee emp1 = new Employee(); // object
 		
@@ -31,6 +31,6 @@ public class Employee {
 		emp1.display();
 		
 
-	}
+	}*/
 
 }
